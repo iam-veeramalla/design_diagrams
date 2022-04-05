@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T05:32:19.981Z" agent="5.0 (Macintosh)" etag="xBZEdC7xCxGwI5BvaviC" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T05:47:35.633Z" agent="5.0 (Macintosh)" etag="v2VWo7geFVUpmTNcPmi6" version="17.4.0" type="github">
   <diagram id="XN-kcn1O6vQYYTPPx1hP" name="Page-1">
     <mxGraphModel dx="946" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="218" y="69" width="421" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="454" y="85" width="87" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-3" value="" style="image;image=img/lib/atlassian/Bitbucket_Logo.svg;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-3" value="" style="image;image=img/lib/atlassian/Bitbucket_Logo.svg;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="549" y="88" width="76" height="71.5" as="geometry" />
         </mxCell>
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" parent="1" vertex="1">
           <mxGeometry x="554" y="183" width="77" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="453" y="185" width="96" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-7" value="What is Version Control System and GIT ???&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#0000FF&quot;&gt;Explained&lt;br&gt;in Telugu &lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-7" value="What is Version Control System and GIT ???&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#0000FF&quot;&gt;Explained&lt;br&gt;in 20 mins&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" parent="1" vertex="1">
           <mxGeometry x="227" y="88" width="185" height="301.25" as="geometry" />
         </mxCell>
-        <mxCell id="UNOSHjhEAQaLv72NM6Rz-8" value="Create First GitHub&lt;br&gt;Project" style="ellipse;whiteSpace=wrap;html=1;fontSize=33;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="UNOSHjhEAQaLv72NM6Rz-8" value="Create First GitHub&lt;br&gt;Project" style="ellipse;whiteSpace=wrap;html=1;fontSize=33;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="422" y="291" width="201" height="184" as="geometry" />
         </mxCell>
       </root>
