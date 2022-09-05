@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T13:02:35.211Z" agent="5.0 (Macintosh)" etag="pF_w34GLVrP2bsy0JXjw" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T13:25:21.438Z" agent="5.0 (Macintosh)" etag="VoeT9OeX0OoVxiZYtuDM" version="20.2.5" type="github">
   <diagram id="5Xs5X14m528J4uA-MT8c" name="Page-1">
-    <mxGraphModel dx="2276" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#182E3E" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=#FFE6CC;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=#FFE6CC;labelBackgroundColor=#182E3E;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="160" width="416" height="416" as="geometry" />
         </mxCell>
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-2" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Tahoma&quot; color=&quot;#FF8000&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot; color=&quot;#000000&quot;&gt;LEARN AWS in 30 Days&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-2" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Tahoma&quot; color=&quot;#FF8000&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot; color=&quot;#000000&quot;&gt;LEARN AWS in 30 Days&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="-33" y="164" width="777" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzw4ZuSAQWMPYOq4TeXUH4ljtw02A8vv11iiKyPHzmR220vlQ9IP-DvWHACJVhhqzQBTg&amp;usqp=CAU;strokeWidth=2;labelBorderColor=default;whiteSpace=wrap;imageBorder=default;" parent="1" vertex="1">
-          <mxGeometry x="428" y="467.47" width="135.5" height="108.53" as="geometry" />
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#182E3E;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzw4ZuSAQWMPYOq4TeXUH4ljtw02A8vv11iiKyPHzmR220vlQ9IP-DvWHACJVhhqzQBTg&amp;usqp=CAU;strokeWidth=2;labelBorderColor=default;whiteSpace=wrap;imageBorder=default;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="428" y="469" width="135.5" height="108.53" as="geometry" />
         </mxCell>
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 70px;&quot; color=&quot;#CC0000&quot;&gt;Day 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=36;fontColor=#FF8000;" parent="1" vertex="1">
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 70px;&quot; color=&quot;#CC0000&quot;&gt;Day 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=36;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="144" y="302" width="161" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-12" value="&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 37px;&quot; color=&quot;#FF8000&quot;&gt;AWS COMMAND LINE INTERFACE&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot; color=&quot;#FF8000&quot;&gt;&lt;b&gt;(CLI)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontFamily=Tahoma;fontSize=34;fontColor=#CC0000;strokeWidth=0;" parent="1" vertex="1">
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-12" value="&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 37px;&quot; color=&quot;#FF8000&quot;&gt;AWS COMMAND LINE INTERFACE&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot; color=&quot;#FF8000&quot;&gt;&lt;b&gt;(CLI)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontFamily=Tahoma;fontSize=34;fontColor=#1A1A1A;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="239" width="291" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-23" value="" style="line;strokeWidth=2;direction=south;html=1;labelBorderColor=none;fontFamily=Tahoma;fontSize=34;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-23" value="" style="line;strokeWidth=2;direction=south;html=1;labelBorderColor=none;fontFamily=Tahoma;fontSize=34;fontColor=#1A1A1A;labelBackgroundColor=#182E3E;fillColor=#EEEEEE;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="302" y="239" width="10" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="gWMVOmKcYHX_5A5s80Z7-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=none;fontFamily=Tahoma;fontSize=38;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=none;fontFamily=Tahoma;fontSize=38;fontColor=#1A1A1A;labelBackgroundColor=#182E3E;fillColor=#EEEEEE;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="150" y="211" width="411" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="J5yeGhwsjVXd5XRw_X_S-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://voicefoundry.com/wp-content/uploads/2018/09/feature-aws.jpg;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="479" width="172.15" height="97" as="geometry" />
+        <mxCell id="J5yeGhwsjVXd5XRw_X_S-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#182E3E;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://voicefoundry.com/wp-content/uploads/2018/09/feature-aws.jpg;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="480.53" width="172.15" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
