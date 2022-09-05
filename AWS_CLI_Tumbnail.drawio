@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T12:43:31.290Z" agent="5.0 (Macintosh)" etag="tq5QgPLGAuw9uJbIdDnc" version="20.2.5" type="github"><diagram id="5Xs5X14m528J4uA-MT8c" name="Page-1">zVhbd6I6FP41rnXOQ7sCAaSPiDr2TLUXO+PMvJwVIULOgFGIt/762UBAETxqq2u1DyV82clOvn2VBrbD9ZeIzPw+d2nQUJG7buB2Q1UVTTXgkSCbDDERzgAvYm4GoS0wZG9UrszRBXNpLLEMEpwHgs3KoMOnU+qIEkaiiK/KYhMeuCVgRjxaAYYOCaroiLnCl7fQ0RbvUeb5uWYFyZmQ5MISiH3i8tUOhDsNbEeci2wUrm0aJOSVeekemC0OFtGpOGWBN+p/fwy/Oj97P/7VLT020a/mjdxlSYKFvLA8rNjkDKx8JuhwRpzkfQVWbuCWL8IA3hQYkniW8T5hawqqWgEZ06DFI5dGNg94lO6Cu92OYdvFNHF+exFfTN0dkbbeMdsaiMgz0UjQ9cHLKgWF4HuUh1REGxApHM/Mlki3UwxphdXWiDqWMv6OAQuQSMfxir233MJA0nsG1WoN1UYAalsTDpfa5dyYL3g+cROnMWGBgKbP1ik9+TyMPPlMNxrvAx/YGU0yi2+xV+LzkJRknMJ6WxBMbaIkCg6d8iOHqlWI0r+qwoeO9TKARdZomBhnCv8wiKE22cT5YcCU2Xn2mIz2kQOCAFdYr4juRRS4tSgHUSwi/pvmsTDlU5rQwYJgDyIB86bw6kAYUMBbSZAwyFaWnAiZ6yZqWnVRmwZcEqNtVOjMk5p6mbhTzVt9L/C0SuA1m81q4GnNK8WdcTzFQWqeJUMWptWgYPUhyVVPPGaC8YTdMReCh4eTmEsnZJG6wL5dBJ/V5cpUoZWjKEdg7AuRVDgrubvapVMn2swEdW/EeIpuvVgQ2P7WgcOo3XQJyHbniaIxqLOsgXv3xRm+rbRfi6H1POo//Xyca6/0x7eeFvwnVki1zOVSURj7unnqvYUvUDyWwfPd/dNNeznqWfY/331//vbcevXAi0mYHH4Rz+HRtq1vtc5Tk/a3dNR5Y3rsbEFJ9gJeqKtlJ9SNu1ukV/xQMZSqHyrgwnf6lXyxebAGvDt1N9GJWdK267MkZENYopyV5z5lQkuO3SUhCxKry2KVobKtxIZ8L/UlabG6TNNhqCW3w8g8zecwupK/KYebDpctT3EvbB7pOU7106MbvTsCanY+rzHJ+gP7sd+3BrACPdwPOvC4H7x2XrqW3blEC1DAKe9l9BOY4n2dXHHtv+yH+7//j49z+qkSQ58y09TUulzx0RykVXOQzMz7VfVCWQnruJSVVFztyLBS05EpVyuDKj7ekwUsJbTaaLgsgnYpa8hivkjwXX+4sG3kb4vLWGKvLVE1XK0PqMYQ5tUMoX3AEBci3bwu6Ur+qSYnXVFqvgTgGtbPL8rwuv2ek87tfBXDnT8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-05T13:02:35.211Z" agent="5.0 (Macintosh)" etag="pF_w34GLVrP2bsy0JXjw" version="20.2.5" type="github">
+  <diagram id="5Xs5X14m528J4uA-MT8c" name="Page-1">
+    <mxGraphModel dx="2276" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=#FFE6CC;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="147.5" y="160" width="416" height="416" as="geometry" />
+        </mxCell>
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-2" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Tahoma&quot; color=&quot;#FF8000&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot; color=&quot;#000000&quot;&gt;LEARN AWS in 30 Days&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-33" y="164" width="777" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzw4ZuSAQWMPYOq4TeXUH4ljtw02A8vv11iiKyPHzmR220vlQ9IP-DvWHACJVhhqzQBTg&amp;usqp=CAU;strokeWidth=2;labelBorderColor=default;whiteSpace=wrap;imageBorder=default;" parent="1" vertex="1">
+          <mxGeometry x="428" y="467.47" width="135.5" height="108.53" as="geometry" />
+        </mxCell>
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 70px;&quot; color=&quot;#CC0000&quot;&gt;Day 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=36;fontColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="144" y="302" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-12" value="&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 37px;&quot; color=&quot;#FF8000&quot;&gt;AWS COMMAND LINE INTERFACE&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot; color=&quot;#FF8000&quot;&gt;&lt;b&gt;(CLI)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontFamily=Tahoma;fontSize=34;fontColor=#CC0000;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="239" width="291" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-23" value="" style="line;strokeWidth=2;direction=south;html=1;labelBorderColor=none;fontFamily=Tahoma;fontSize=34;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="302" y="239" width="10" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="gWMVOmKcYHX_5A5s80Z7-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=none;fontFamily=Tahoma;fontSize=38;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="150" y="211" width="411" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J5yeGhwsjVXd5XRw_X_S-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://voicefoundry.com/wp-content/uploads/2018/09/feature-aws.jpg;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="479" width="172.15" height="97" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
