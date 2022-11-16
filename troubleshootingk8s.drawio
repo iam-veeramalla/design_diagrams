@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T16:22:08.672Z" agent="5.0 (Macintosh)" etag="XHKT5kG06UzvoBgcQcQK" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T16:24:34.123Z" agent="5.0 (Macintosh)" etag="5zbxOznMDE2d2fNIiZ5j" version="20.5.3" type="github">
   <diagram id="LRVJ_gA-ECyoLNhpazRZ" name="Page-1">
-    <mxGraphModel dx="1165" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,16 +14,16 @@
           <mxGeometry x="42" y="556" width="544" height="159" as="geometry" />
         </mxCell>
         <mxCell id="fPSSwuTNx_uVup1d7s4r-2" value="&lt;h3 id=&quot;crashloopbackoff&quot; class=&quot;f3 pt3&quot;&gt;CrashLoopBackOff&lt;/h3&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; Liveness Probe Failure&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; Application Failed to start for any reason&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The Tricky Part:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; How to fix this ?&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Challenges ?&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="222" y="799" width="483" height="333" as="geometry" />
+          <mxGeometry x="210" y="737" width="483" height="333" as="geometry" />
         </mxCell>
         <mxCell id="fPSSwuTNx_uVup1d7s4r-3" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;KUBERNETES DEBUGGING &amp;amp; TROUBLESHOOTING&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="170" y="30" width="741" height="112" as="geometry" />
         </mxCell>
         <mxCell id="fPSSwuTNx_uVup1d7s4r-4" value="&lt;h3 id=&quot;crashloopbackoff&quot; class=&quot;f3 pt3&quot;&gt;Image pulled but pod is pending &lt;br&gt;&lt;/h3&gt;&lt;div&gt;&amp;nbsp; ResourceQuota on namespace ?&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Requests and Limits set ?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Node or Nodes lacks Resources ?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Also, check the kube-scheduler component&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="17" y="1149" width="812" height="546" as="geometry" />
+          <mxGeometry x="26" y="1043" width="812" height="546" as="geometry" />
         </mxCell>
         <mxCell id="fPSSwuTNx_uVup1d7s4r-5" value="&lt;h3 id=&quot;crashloopbackoff&quot; class=&quot;f3 pt3&quot;&gt;Image pulled but pod is not Ready &lt;br&gt;&lt;/h3&gt;&lt;div&gt;- Always check for the Readiness Probes&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="24" y="1612" width="805" height="207" as="geometry" />
+          <mxGeometry x="45" y="1490" width="805" height="207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
