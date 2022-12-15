@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T12:34:50.018Z" agent="5.0 (Macintosh)" etag="_0-hNal1N-9hnumh7YBN" version="20.6.0" type="github">
-  <diagram id="RXlJu9_Hq2XubgYABgwg" name="Page-1">
-    <mxGraphModel dx="786" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-12-15T12:37:57.405Z" agent="5.0 (Macintosh)" etag="_tfyA5gE-3Il8tRHFR1x" version="20.6.0" type="github">
+  <diagram id="RXlJu9_Hq2XubgYABgwg" name="Kubernetes Projects">
+    <mxGraphModel dx="1238" dy="524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
