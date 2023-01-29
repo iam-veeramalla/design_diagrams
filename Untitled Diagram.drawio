@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T07:16:51.776Z" agent="5.0 (Macintosh)" etag="KK_YLaXG_HjgQnLwWIFO" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T07:23:27.348Z" agent="5.0 (Macintosh)" etag="gR-p0wuMwJC_GZJ8pG3Z" version="20.8.11" type="github">
   <diagram name="Page-1" id="OF6Aih77VSZNWGDeRNUr">
     <mxGraphModel dx="794" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,6 +133,12 @@
         </mxCell>
         <mxCell id="6C-Xd12rDMEhtAGSsv6R-52" value="&lt;h1&gt;Modules&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;- Existing Modules&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;- Write your own Modules&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=48;fontFamily=Comic Sans MS;fontColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="31" y="4404" width="750" height="442" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-54" value="&lt;h1&gt;Problems with terraform&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#FFFF33&quot;&gt;- State file is single source of truth.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#FFFF33&quot;&gt;- Manual changes to the cloud provider cannot be identified and auto-corrected.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#FFFF33&quot;&gt;- Not a GitOps friendly tool. Don&#39;t play well with Flux or Argo CD.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#FFFF33&quot;&gt;- Can become very complex and difficult to manage&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#FFFF33&quot;&gt;- Trying to position as a configuration management tool as well.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontFamily=Comic Sans MS;fontColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="23" y="4908" width="748" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-55" value="&lt;h1&gt;TERRAFORM INTERVIEW QUESTIONS&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontFamily=Comic Sans MS;fontColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="38" y="5518" width="787" height="227" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
