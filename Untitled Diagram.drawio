@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T07:11:44.192Z" agent="5.0 (Macintosh)" etag="cxTJWZsTnqS0NICUzKA8" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T07:16:51.776Z" agent="5.0 (Macintosh)" etag="KK_YLaXG_HjgQnLwWIFO" version="20.8.11" type="github">
   <diagram name="Page-1" id="OF6Aih77VSZNWGDeRNUr">
-    <mxGraphModel dx="836" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,6 +130,9 @@
         </mxCell>
         <mxCell id="6C-Xd12rDMEhtAGSsv6R-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=48;fontColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="407.11" y="3958" width="90.89" height="90.89" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-52" value="&lt;h1&gt;Modules&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;- Existing Modules&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#009900&quot;&gt;- Write your own Modules&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=48;fontFamily=Comic Sans MS;fontColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="31" y="4404" width="750" height="442" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
