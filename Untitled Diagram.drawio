@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T06:40:05.060Z" agent="5.0 (Macintosh)" etag="CADxkLT8B7WJrRFtpweK" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T07:01:17.482Z" agent="5.0 (Macintosh)" etag="rkkFRipO3lQ75AkIJF0k" version="20.8.11" type="github">
   <diagram name="Page-1" id="OF6Aih77VSZNWGDeRNUr">
     <mxGraphModel dx="836" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,22 @@
           <mxGeometry x="186" y="2499" width="634" height="65" as="geometry" />
         </mxCell>
         <mxCell id="6C-Xd12rDMEhtAGSsv6R-18" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Let&#39;s write the first terraform project&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontFamily=Comic Sans MS;fontColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="113.5" y="2922" width="640" height="141" as="geometry" />
+          <mxGeometry x="113.5" y="2949" width="640" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-19" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Let&#39;s talk about the state file and good practices&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontFamily=Comic Sans MS;fontColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="105" y="3356" width="640" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-21" value="&lt;font color=&quot;#66FF66&quot;&gt;&lt;strong class=&quot;jn lf&quot;&gt;You should store your state files remotely, not on your local machine!&lt;/strong&gt; &lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="3552" width="699" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-22" value="&lt;font color=&quot;#00FF80&quot;&gt;&lt;strong class=&quot;jn lf&quot;&gt;It is not a good idea to store the state file in source control.&lt;/strong&gt;&lt;/font&gt; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="102" y="3615" width="616" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-24" value="Isolate and organize the state files to reduce the blast radius" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="98" y="3682" width="588" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6C-Xd12rDMEhtAGSsv6R-25" value="Do not manipulate the state file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="245" y="3738" width="309" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
