@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T16:45:26.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="yuSavw8bU_OGtT5QaOtD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T16:52:34.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="QGLNBx6ZTqDVKMTJFTi2" version="21.2.9" type="github">
   <diagram name="Page-1" id="GO5GgONzhZQ8gxu6gwAj">
-    <mxGraphModel dx="2874" dy="831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFF99" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFF99" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
         <mxCell id="Pkzv_1JMDzngN3EffLYR-70" value="CANARY/&lt;br&gt;BLUE-GREEN" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="385" y="1196" width="160" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="awNRORqvKtyHXquhSQl--1" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;AWS GAURDRAILS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="awNRORqvKtyHXquhSQl--1" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;AWS Ninja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-681" y="1645" width="886" height="124" as="geometry" />
         </mxCell>
         <mxCell id="awNRORqvKtyHXquhSQl--4" value="&lt;div align=&quot;left&quot;&gt;As a Cloud Engineering team we take care of the AWS environment and make sure it is in compliance with the organizational policies.&lt;br&gt;We use AWS cloud watch in combination with AWS Lambda to govern the resources according to the policies.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;For example, we Trigger a Lambda function when an Amazon Elastic Block Store (EBS) volume is created. We use Amazon CloudWatch Events. CloudWatch Events that allows us to monitor and respond to EBS volumes that are of type GP2 and convert them to type GP3.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" vertex="1" parent="1">
